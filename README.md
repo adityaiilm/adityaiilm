@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityaiilm
 - 👀 I’m interested in Java and many more langauge
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate for leeaning 
+- 💞️ I’m looking to collaborate for learning
 - 📫 How to reach me @ aditya.sharma.cs26@iilm.edu
 
 <!---
